@@ -18,6 +18,7 @@
 
    files_deploy/files_deploy
    file_analytics_deploy/file_analytics_deploy
+   files_manager/files_manager
 
 .. toctree::
   :maxdepth: 2
@@ -39,6 +40,7 @@
 
   file_analytics_scan/file_analytics_scan
   file_analytics_anomaly/file_analytics_anomaly
+  file_analytics_ransomware/file_analytics_ransomware
 
 .. toctree::
   :maxdepth: 2
@@ -47,6 +49,7 @@
   :hidden:
 
   files_expand_cluster/files_expand_cluster
+  peer/peer
 
 .. toctree::
   :maxdepth: 2
