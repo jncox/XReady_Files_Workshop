@@ -109,7 +109,7 @@ Agenda
 Assessment
 ...........
 
-Click here to get back to XReady to do the `Assessment <https://www.nutanixuniversity.com/sales/lms/index.php?r=course/deeplink&course_id=1321&generated_by=20160&hash=73cb5f5992f26dea84ca08a7d3ba2e478d219a2e>`_
+Click here to get back to XReady to do the `Assessment <https://www.nutanixuniversity.com/sales/lms/index.php?r=course/deeplink&course_id=1870&generated_by=20160&hash=464ebde7173d0ed1f8f94817fc6cfec0a954ec79>`_
 
 Optional labs:
 ..............
