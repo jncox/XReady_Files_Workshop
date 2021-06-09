@@ -41,7 +41,7 @@ Deploy Files
 
 #. Click **Next**.
 
-#. Select the **Secondary - Managed** VLAN for the **Client Network**.
+#. Select the **Primary - Managed** VLAN for the **Client Network**.
 
    Each Files VM will consume a single IP on the client network.
 
